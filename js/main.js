@@ -6,7 +6,7 @@ function getRandomInt(min, max) {
 }
 getRandomInt();
 
-//имя_функции(проверяемая_строка, максимальная_длина)
+
 function getMaxLine(value, max){
   value = String(value);
   return value.lenght <= max;
